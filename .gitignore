@@ -1,0 +1,16 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Java
+target/
+*.class
+
+# IDE
+.idea/
+.vscode/
+
+# Environment
+.env
+.env.local

@@ -1,0 +1,15 @@
+{
+  "name": "planningpoker",
+  "version": "1.0.0",
+  "description": "![alt text](react-product-app.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "notistack": "^3.0.1",
+    "prop-types": "^15.8.1"
+  }
+}

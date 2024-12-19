@@ -1,0 +1,113 @@
+// paper & background
+$paper: #ffffff;
+$white: #ffffff;
+$black: #000000;
+$background: #1e1e1e;
+$backgroundLight: #242f40;
+$backgroundDark: #363636;
+
+// primary
+$primaryLight: #026689;
+$primaryMain: #004259;
+$primaryDark: #001c25;
+$primary200: #0288b8;
+$primary800: #00212c;
+
+// secondary
+$secondaryLight: #f2fe00;
+$secondaryMain: #cad400;
+$secondaryDark: #a1a900;
+$secondary200: #f3fa6a;
+$secondary800: #7f8502;
+
+// success Colors
+$successLight: #a5d6af;
+$successMain: #85c48e;
+$successDark: #6aad7a;
+
+// error
+$errorLight: #e89595;
+$errorMain: #d87474;
+$errorDark: #bc5454;
+
+// info
+$infoLight: #c9d8e5;
+$infoMain: #a5b9d4;
+$infoDark: #768ca8;
+
+// warning
+$warningLight: #f9d5a5;
+$warningMain: #ffbb72;
+$warningDark: #e89f3a;
+
+// grey
+$grey50: #f8f8f8;
+$grey150: #f3f3f3;
+$grey200: #ebebeb;
+$grey250: #dfdfdf;
+$grey300: #d9d9d9;
+$grey400: #bdc1c2; // Main Corporate grey
+$grey500: #919090;
+$grey600: #938985;
+$grey700: #73797c; // Secondary Corporate grey
+$grey800: #695f5c;
+$grey900: #3a3434;
+
+// ==============================|| EXPORT ||============================== //
+
+:export {
+  // paper & background
+  paper: $paper;
+  white: $white;
+  black: $black;
+  background: $background;
+  backgroundLight: $backgroundLight;
+  backgroundDark: $backgroundDark;
+
+  // primary
+  primaryLight: $primaryLight;
+  primaryMain: $primaryMain;
+  primaryDark: $primaryDark;
+  primary200: $primary200;
+  primary800: $primary800;
+
+  // secondary
+  secondaryLight: $secondaryLight;
+  secondaryMain: $secondaryMain;
+  secondaryDark: $secondaryDark;
+  secondary200: $secondary200;
+  secondary800: $secondary800;
+
+  // success Colors
+  successLight: $successLight;
+  successMain: $successMain;
+  successDark: $successDark;
+
+  // error
+  errorLight: $errorLight;
+  errorMain: $errorMain;
+  errorDark: $errorDark;
+
+  // info
+  infoLight: $infoLight;
+  infoMain: $infoMain;
+  infoDark: $infoDark;
+
+  // warning
+  warningLight: $warningLight;
+  warningMain: $warningMain;
+  warningDark: $warningDark;
+
+  // grey
+  grey50: $grey50;
+  grey150: $grey150;
+  grey200: $grey200;
+  grey250: $grey250;
+  grey300: $grey300;
+  grey400: $grey400;
+  grey500: $grey500;
+  grey600: $grey600;
+  grey700: $grey700;
+  grey800: $grey800;
+  grey900: $grey900;
+}
